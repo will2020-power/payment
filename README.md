@@ -1,15 +1,21 @@
 # payment
 
 #### 介绍
-支付系统学习，在线演示案例 [https://www.mixfate.com/pcpay/](https://www.mixfate.com/pcpay/)
+支付系统学习，参考了在线演示案例 [https://www.mixfate.com/pcpay/](https://www.mixfate.com/pcpay/)
 
 #### 软件架构
-vue + spring-boot 设计（学习中）
+vue 3 + spring-boot 2.7 设计（学习中）
 
 
 #### 安装教程
 
 1.  部署前端
+
+```
+npm install
+npm run serve
+```
+
 2.  部署后端
 
 #### 使用说明
